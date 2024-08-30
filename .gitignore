@@ -4,6 +4,7 @@ labelImg.egg-info*
 
 *.pyc
 .*.swp
+*.spec
 
 build/
 dist/
